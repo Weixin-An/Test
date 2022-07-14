@@ -1,2 +1,4 @@
 This is a simple example.
 This is a forth file.
+This is a simple example.
+This is a forth file.
